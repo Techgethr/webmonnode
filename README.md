@@ -195,6 +195,13 @@ For example:
     console.log("The total amount is "+totalAmount);
 ```
 
+### Getting new document
+
+For getting the new document variable (DOM), you must call *getDocument()* funcion.
+For example:
+```js
+    var document = webMon.getDocument();
+```
 
 ## Stopping
 

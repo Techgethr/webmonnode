@@ -48,6 +48,16 @@ exports.getMonetizationState = function() {
 }
 
 /*
+    Function name: getDocument
+    Description: Returns the document (DOM) with Monetization configurations.
+    Parameters: none
+    Returns: DOM (document)
+*/
+exports.getDocument = function() {
+    return this.document;
+}
+
+/*
     Function name: registerMonetizedContent
     Description: Register classes for exclusive and hidden content when WebMonetization is in use.
     Parameters: (classExclusiveContent: string, class name with exclusive content), (classHiddenContent: string, class name with hidden content when WebMonetization is enabled and disabled)
