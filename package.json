@@ -1,0 +1,15 @@
+{
+  "name": "webmonetization-helper",
+  "version": "1.0.0",
+  "description": "WebMonetization API Helper for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webmonetization",
+    "coil"
+  ],
+  "author": "Nestor Campos Rojas",
+  "license": "MIT"
+}
